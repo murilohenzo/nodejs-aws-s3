@@ -1,0 +1,16 @@
+# dotenv environment variables file
+.env
+
+### VisualStudioCode ###
+.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Dump file
+*.stackdump
+
+# End of https://www.gitignore.io/api/node,macos,windows,visualstudiocode
+node_modules
